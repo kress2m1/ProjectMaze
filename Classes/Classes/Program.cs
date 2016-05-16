@@ -28,7 +28,7 @@ namespace Classes
             //Call method Leg
             person.Leg();
             Console.WriteLine(".............");
-            Console.WriteLine("I was added online here"");
+            Console.WriteLine("I was added online here");
 
             //Call method AdderSmart
             person.AdderSmart();
