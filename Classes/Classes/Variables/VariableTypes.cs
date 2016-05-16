@@ -25,7 +25,7 @@ namespace Classes.Variables
 
         /// <summary>
         /// Check this string out in Program
-        /// </summary>
+        /// </summary> You forgot to add the summary
         /// <param name="newString"></param>
         /// <param name="oldString"></param>
         /// <returns></returns>
