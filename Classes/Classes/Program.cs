@@ -70,6 +70,7 @@ namespace Classes
             //Call the array class here
             ArrayClass viewArrays = new ArrayClass();
             viewArrays.ArraySamples();
+            Console.WriteLine(".............");
 
 
             Console.ReadKey();

@@ -13,3 +13,9 @@ E:\C#_Automation_Testing\Visual Studio Projects\Classes\Classes\obj\Debug\Classe
 D:\C#_Automation_Testing\Visual Studio Projects\Classes\Classes\bin\Debug\Classes.exe.config
 D:\C#_Automation_Testing\Visual Studio Projects\Classes\Classes\obj\Debug\Classes.exe
 D:\C#_Automation_Testing\Visual Studio Projects\Classes\Classes\obj\Debug\Classes.pdb
+D:\C#_Automation_Testing\AndreGitRepo\Classes\Classes\bin\Debug\Classes.exe.config
+D:\C#_Automation_Testing\AndreGitRepo\Classes\Classes\obj\Debug\Classes.exe
+D:\C#_Automation_Testing\AndreGitRepo\Classes\Classes\obj\Debug\Classes.pdb
+D:\C#_Automation_Testing\AndreGitRepo\Classes\Classes\bin\Debug\Classes.exe
+D:\C#_Automation_Testing\AndreGitRepo\Classes\Classes\bin\Debug\Classes.pdb
+D:\C#_Automation_Testing\AndreGitRepo\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
