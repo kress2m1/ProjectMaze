@@ -72,6 +72,11 @@ namespace Classes
             viewArrays.ArraySamples();
             Console.WriteLine(".............");
 
+            //Call the Variable class here
+            varMethod.varString("Andre", "Dada");
+            Console.WriteLine(".............");
+
+
 
             Console.ReadKey();
         }
@@ -80,6 +85,7 @@ namespace Classes
         public static void externalMethodInMain()
         {
             Console.WriteLine("This is a method called in the Main method");
+            Console.WriteLine(".............");
         }       
     }
 }
