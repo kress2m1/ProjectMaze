@@ -28,6 +28,7 @@ namespace Classes
             //Call method Leg
             person.Leg();
             Console.WriteLine(".............");
+            Console.WriteLine("I was added online here"");
 
             //Call method AdderSmart
             person.AdderSmart();
@@ -72,6 +73,11 @@ namespace Classes
             viewArrays.ArraySamples();
             Console.WriteLine(".............");
 
+            //Call the Variable class here
+            varMethod.varString("Andre", "Dada");
+            Console.WriteLine(".............");
+
+
 
             Console.ReadKey();
         }
@@ -80,6 +86,7 @@ namespace Classes
         public static void externalMethodInMain()
         {
             Console.WriteLine("This is a method called in the Main method");
+            Console.WriteLine(".............");
         }       
     }
 }
