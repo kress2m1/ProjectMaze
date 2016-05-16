@@ -22,5 +22,17 @@ namespace Classes.Variables
             double resultAdd = a + b;
             return resultAdd;
         }
+
+        /// <summary>
+        /// Check this string out in Program
+        /// </summary>
+        /// <param name="newString"></param>
+        /// <param name="oldString"></param>
+        /// <returns></returns>
+        public string varString(string newString, string oldString)
+        {
+            string fullName = newString + " " + oldString;
+            return fullName;
+        }
     }
 }
