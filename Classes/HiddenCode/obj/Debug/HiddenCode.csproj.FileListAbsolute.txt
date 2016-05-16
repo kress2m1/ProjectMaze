@@ -1,0 +1,6 @@
+E:\C#_Automation_Testing\Visual Studio Projects\Classes\HiddenCode\bin\Debug\HiddenCode.exe.config
+E:\C#_Automation_Testing\Visual Studio Projects\Classes\HiddenCode\bin\Debug\HiddenCode.exe
+E:\C#_Automation_Testing\Visual Studio Projects\Classes\HiddenCode\bin\Debug\HiddenCode.pdb
+E:\C#_Automation_Testing\Visual Studio Projects\Classes\HiddenCode\obj\Debug\HiddenCode.csprojResolveAssemblyReference.cache
+E:\C#_Automation_Testing\Visual Studio Projects\Classes\HiddenCode\obj\Debug\HiddenCode.exe
+E:\C#_Automation_Testing\Visual Studio Projects\Classes\HiddenCode\obj\Debug\HiddenCode.pdb
